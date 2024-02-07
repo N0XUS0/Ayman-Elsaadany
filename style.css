@@ -408,13 +408,13 @@ section {
   }
   .swiper-slide--3{
     background: 
-    url("img/assest/3.png")
+    url("img/assest/4.png")
         no-repeat 50% 50% / cover;
   }
   
   .swiper-slide--4 {
     background: 
-      url("img/assest/4.png")
+      url("img/assest/3.png")
         no-repeat 50% 50% / cover;
   }
   
