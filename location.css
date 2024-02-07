@@ -2,6 +2,7 @@ body{
     background-image: linear-gradient(to right, #f8cd41b2,#ce7f17);
 text-transform: capitalize;
 color: #fff;
+	margin-bottom: 230px;
 }
 
 .container {
