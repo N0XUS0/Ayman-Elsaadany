@@ -7,8 +7,13 @@
     <link rel="stylesheet" href="style.css">
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css'>
 </head>
-
-<body>
+<body></body>
+<div id="perloder">
+</div>
+<div style="display: none;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-ObdvMkCKws?si=PPMm0IemJc6oEGat" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+</div>
     <!-- start prev -->
     <div class="img1">
     <img src="img/logo2.png" alt="#">
@@ -199,6 +204,11 @@
     <script>
     </script>
     <script src="https://kit.fontawesome.com/b828253d90.js" crossorigin="anonymous"></script>
-
+    <script>
+      var loader =document.getElementById("perloder");
+      window.addEventListener("load" ,function(){
+          loader.style.display="none";
+      })
+  </script>
   </body>
 </html>
