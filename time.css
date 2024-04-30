@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to right, #f8cd41b2,#ce7f17);
+background-color: #03031d !important;
 text-transform: capitalize;
 color: #fff;
 }
@@ -30,7 +30,7 @@ color: #fff;
         font-size:20px; 
         width: 300px !important;
         border-radius: 30px;
-        background-color: #be6d10e0 !important;
+        background-color: #0e0e70 !important;
         
         display: block; 
         margin: 4% !important;
