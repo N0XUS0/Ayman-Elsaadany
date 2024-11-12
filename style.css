@@ -428,6 +428,13 @@ section {
         width: auto !important;
 
   }
+  .swiper-slide--4 {
+    background: 
+      url("img/assest/5.png")
+        no-repeat 50% 50% / cover;
+        width: auto !important;
+
+  }
   
 
 
